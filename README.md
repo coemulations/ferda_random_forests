@@ -1,4 +1,4 @@
-# ferda_random_forests
+# Random Forests by Team FERDA
 This assignments learning objectives are to ensure that students understand:
 - Structure and Intuition behind Decision Trees
 - Entropy vs Gini Impurity
