@@ -13,7 +13,6 @@ This assignments learning objectives are to ensure that students understand:
 - **Random_Forests.ipnyb:** Jupyter Notebook of assignment
 - **Random_Forests_Solutions.ipnyb:** Jupyter Notebook of assignment with solutions
 - **auto-mpg.csv:** Car MPG and features dataset to be used in Random_Features.ipnyb
--
 ### Changes to be made:
 - (Notes) Ensure students understand Decision Trees
 - (Notes) Add more about baggind and feature selection
