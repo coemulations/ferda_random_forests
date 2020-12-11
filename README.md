@@ -12,10 +12,10 @@ A deeper understanding of the nature of Random Forests is facilitated in program
 Lastly, students will understand visually how a random forest makes splits on the dataset by examining the splits made by a single tree. They will have to effectively verbalize the findings of the tree in a few short answer questions at the end of the assignment.
 
 Listed in bullet points for ease:
-- Structure and Intuition behind Decision Tre
-- Entropy vs Gini Impurity
-- Disadvantages of Decision Trees and how Random Forests can fix them
-- How to use Random Forests for an industry classification task
+- Structure and Intuition behind Decision Trees.
+- Entropy vs. Gini Impurity.
+- Disadvantages of Decision Trees and how Random Forests can fix them.
+- How to use Random Forests for an industry classification task.
 - Using Decision Tree and Random Forest visualization to understand what splits are made to classify datapoints.
 - Reporting information on splits in an efficient manner.
 
